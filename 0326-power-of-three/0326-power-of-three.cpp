@@ -10,7 +10,7 @@ public:
 
             n=n/3;
         }
-
-        return true;
+        
+        return n==1;
     }
 };
