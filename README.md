@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/HackHero433/Leetcode-cpp/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/HackHero433/Leetcode-cpp/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/HackHero433/Leetcode-cpp/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/HackHero433/Leetcode-cpp/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/HackHero433/Leetcode-cpp/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HackHero433/Leetcode-cpp/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HackHero433/Leetcode-cpp/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/HackHero433/Leetcode-cpp/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/HackHero433/Leetcode-cpp/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/HackHero433/Leetcode-cpp/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/HackHero433/Leetcode-cpp/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/HackHero433/Leetcode-cpp/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/HackHero433/Leetcode-cpp/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/HackHero433/Leetcode-cpp/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/HackHero433/Leetcode-cpp/tree/master/0342-power-of-four) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/HackHero433/Leetcode-cpp/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 ## Number Theory
 |  |
