@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/HackHero433/Leetcode-cpp/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/HackHero433/Leetcode-cpp/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/HackHero433/Leetcode-cpp/tree/master/0137-single-number-ii) |
+| [0189-rotate-array](https://github.com/HackHero433/Leetcode-cpp/tree/master/0189-rotate-array) |
 | [0347-top-k-frequent-elements](https://github.com/HackHero433/Leetcode-cpp/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/HackHero433/Leetcode-cpp/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/HackHero433/Leetcode-cpp/tree/master/0502-ipo) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/HackHero433/Leetcode-cpp/tree/master/0067-add-binary) |
+| [0189-rotate-array](https://github.com/HackHero433/Leetcode-cpp/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/HackHero433/Leetcode-cpp/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/HackHero433/Leetcode-cpp/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/HackHero433/Leetcode-cpp/tree/master/0326-power-of-three) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/HackHero433/Leetcode-cpp/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/HackHero433/Leetcode-cpp/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/HackHero433/Leetcode-cpp/tree/master/0455-assign-cookies) |
 ## Backtracking
 |  |
