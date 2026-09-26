@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HackHero433/Leetcode-cpp/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0268-missing-number](https://github.com/HackHero433/Leetcode-cpp/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/HackHero433/Leetcode-cpp/tree/master/0347-top-k-frequent-elements) |
 | [0767-reorganize-string](https://github.com/HackHero433/Leetcode-cpp/tree/master/0767-reorganize-string) |
 | [1331-rank-transform-of-an-array](https://github.com/HackHero433/Leetcode-cpp/tree/master/1331-rank-transform-of-an-array) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/HackHero433/Leetcode-cpp/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/HackHero433/Leetcode-cpp/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/HackHero433/Leetcode-cpp/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/HackHero433/Leetcode-cpp/tree/master/0502-ipo) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/HackHero433/Leetcode-cpp/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/HackHero433/Leetcode-cpp/tree/master/0137-single-number-ii) |
 | [0189-rotate-array](https://github.com/HackHero433/Leetcode-cpp/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/HackHero433/Leetcode-cpp/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/HackHero433/Leetcode-cpp/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/HackHero433/Leetcode-cpp/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/HackHero433/Leetcode-cpp/tree/master/0455-assign-cookies) |
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/HackHero433/Leetcode-cpp/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/HackHero433/Leetcode-cpp/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/HackHero433/Leetcode-cpp/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/HackHero433/Leetcode-cpp/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/HackHero433/Leetcode-cpp/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/HackHero433/Leetcode-cpp/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/HackHero433/Leetcode-cpp/tree/master/0509-fibonacci-number) |
@@ -153,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/HackHero433/Leetcode-cpp/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/HackHero433/Leetcode-cpp/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/HackHero433/Leetcode-cpp/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/HackHero433/Leetcode-cpp/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/HackHero433/Leetcode-cpp/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/HackHero433/Leetcode-cpp/tree/master/0342-power-of-four) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/HackHero433/Leetcode-cpp/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
@@ -239,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HackHero433/Leetcode-cpp/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0268-missing-number](https://github.com/HackHero433/Leetcode-cpp/tree/master/0268-missing-number) |
 | [0700-search-in-a-binary-search-tree](https://github.com/HackHero433/Leetcode-cpp/tree/master/0700-search-in-a-binary-search-tree) |
 ## Sliding Window
 |  |
