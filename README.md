@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HackHero433/Leetcode-cpp/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0169-majority-element](https://github.com/HackHero433/Leetcode-cpp/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/HackHero433/Leetcode-cpp/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/HackHero433/Leetcode-cpp/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/HackHero433/Leetcode-cpp/tree/master/0347-top-k-frequent-elements) |
 | [0767-reorganize-string](https://github.com/HackHero433/Leetcode-cpp/tree/master/0767-reorganize-string) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/HackHero433/Leetcode-cpp/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/HackHero433/Leetcode-cpp/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/HackHero433/Leetcode-cpp/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/HackHero433/Leetcode-cpp/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/HackHero433/Leetcode-cpp/tree/master/0455-assign-cookies) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/HackHero433/Leetcode-cpp/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/HackHero433/Leetcode-cpp/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/HackHero433/Leetcode-cpp/tree/master/0347-top-k-frequent-elements) |
 | [0767-reorganize-string](https://github.com/HackHero433/Leetcode-cpp/tree/master/0767-reorganize-string) |
 ## Array
@@ -69,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/HackHero433/Leetcode-cpp/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/HackHero433/Leetcode-cpp/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/HackHero433/Leetcode-cpp/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/HackHero433/Leetcode-cpp/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/HackHero433/Leetcode-cpp/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/HackHero433/Leetcode-cpp/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/HackHero433/Leetcode-cpp/tree/master/0347-top-k-frequent-elements) |
@@ -259,4 +263,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/HackHero433/Leetcode-cpp/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/HackHero433/Leetcode-cpp/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
