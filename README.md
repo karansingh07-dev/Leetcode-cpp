@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/HackHero433/Leetcode-cpp/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/HackHero433/Leetcode-cpp/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/HackHero433/Leetcode-cpp/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/HackHero433/Leetcode-cpp/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/HackHero433/Leetcode-cpp/tree/master/0268-missing-number) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/HackHero433/Leetcode-cpp/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/HackHero433/Leetcode-cpp/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/HackHero433/Leetcode-cpp/tree/master/0068-text-justification) |
+| [0075-sort-colors](https://github.com/HackHero433/Leetcode-cpp/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/HackHero433/Leetcode-cpp/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/HackHero433/Leetcode-cpp/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/HackHero433/Leetcode-cpp/tree/master/0136-single-number) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/HackHero433/Leetcode-cpp/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/HackHero433/Leetcode-cpp/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/HackHero433/Leetcode-cpp/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/HackHero433/Leetcode-cpp/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/HackHero433/Leetcode-cpp/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/HackHero433/Leetcode-cpp/tree/master/0283-move-zeroes) |
@@ -279,4 +282,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/HackHero433/Leetcode-cpp/tree/master/0054-spiral-matrix) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/HackHero433/Leetcode-cpp/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/HackHero433/Leetcode-cpp/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
