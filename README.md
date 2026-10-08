@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/HackHero433/Leetcode-cpp/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/HackHero433/Leetcode-cpp/tree/master/0387-first-unique-character-in-a-string) |
 | [0767-reorganize-string](https://github.com/HackHero433/Leetcode-cpp/tree/master/0767-reorganize-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/HackHero433/Leetcode-cpp/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/HackHero433/Leetcode-cpp/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/HackHero433/Leetcode-cpp/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Greedy
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/HackHero433/Leetcode-cpp/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/HackHero433/Leetcode-cpp/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/HackHero433/Leetcode-cpp/tree/master/0145-binary-tree-postorder-traversal) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/HackHero433/Leetcode-cpp/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/HackHero433/Leetcode-cpp/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
