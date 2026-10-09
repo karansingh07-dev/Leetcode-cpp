@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/HackHero433/Leetcode-cpp/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/HackHero433/Leetcode-cpp/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/HackHero433/Leetcode-cpp/tree/master/0387-first-unique-character-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/HackHero433/Leetcode-cpp/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/HackHero433/Leetcode-cpp/tree/master/0560-subarray-sum-equals-k) |
 | [0767-reorganize-string](https://github.com/HackHero433/Leetcode-cpp/tree/master/0767-reorganize-string) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/HackHero433/Leetcode-cpp/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/HackHero433/Leetcode-cpp/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/HackHero433/Leetcode-cpp/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/HackHero433/Leetcode-cpp/tree/master/0455-assign-cookies) |
+| [0496-next-greater-element-i](https://github.com/HackHero433/Leetcode-cpp/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/HackHero433/Leetcode-cpp/tree/master/0502-ipo) |
 | [0560-subarray-sum-equals-k](https://github.com/HackHero433/Leetcode-cpp/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HackHero433/Leetcode-cpp/tree/master/0628-maximum-product-of-three-numbers) |
@@ -208,11 +210,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/HackHero433/Leetcode-cpp/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/HackHero433/Leetcode-cpp/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/HackHero433/Leetcode-cpp/tree/master/0145-binary-tree-postorder-traversal) |
+| [0496-next-greater-element-i](https://github.com/HackHero433/Leetcode-cpp/tree/master/0496-next-greater-element-i) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/HackHero433/Leetcode-cpp/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/HackHero433/Leetcode-cpp/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/HackHero433/Leetcode-cpp/tree/master/0496-next-greater-element-i) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/HackHero433/Leetcode-cpp/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Tree
 |  |
