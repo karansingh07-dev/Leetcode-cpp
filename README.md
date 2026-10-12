@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/HackHero433/Leetcode-cpp/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/HackHero433/Leetcode-cpp/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HackHero433/Leetcode-cpp/tree/master/0628-maximum-product-of-three-numbers) |
+| [0682-baseball-game](https://github.com/HackHero433/Leetcode-cpp/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/HackHero433/Leetcode-cpp/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/HackHero433/Leetcode-cpp/tree/master/0735-asteroid-collision) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/HackHero433/Leetcode-cpp/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/HackHero433/Leetcode-cpp/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/HackHero433/Leetcode-cpp/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/HackHero433/Leetcode-cpp/tree/master/0068-text-justification) |
+| [0682-baseball-game](https://github.com/HackHero433/Leetcode-cpp/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/HackHero433/Leetcode-cpp/tree/master/0735-asteroid-collision) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/HackHero433/Leetcode-cpp/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Linked List
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/HackHero433/Leetcode-cpp/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/HackHero433/Leetcode-cpp/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/HackHero433/Leetcode-cpp/tree/master/0503-next-greater-element-ii) |
+| [0682-baseball-game](https://github.com/HackHero433/Leetcode-cpp/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/HackHero433/Leetcode-cpp/tree/master/0735-asteroid-collision) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/HackHero433/Leetcode-cpp/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/HackHero433/Leetcode-cpp/tree/master/1081-smallest-subsequence-of-distinct-characters) |
