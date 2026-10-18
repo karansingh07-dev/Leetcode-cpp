@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/HackHero433/Leetcode-cpp/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/HackHero433/Leetcode-cpp/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/HackHero433/Leetcode-cpp/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/HackHero433/Leetcode-cpp/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/HackHero433/Leetcode-cpp/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/HackHero433/Leetcode-cpp/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/HackHero433/Leetcode-cpp/tree/master/0283-move-zeroes) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/HackHero433/Leetcode-cpp/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/HackHero433/Leetcode-cpp/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/HackHero433/Leetcode-cpp/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/HackHero433/Leetcode-cpp/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/HackHero433/Leetcode-cpp/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HackHero433/Leetcode-cpp/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0617-merge-two-binary-trees](https://github.com/HackHero433/Leetcode-cpp/tree/master/0617-merge-two-binary-trees) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/HackHero433/Leetcode-cpp/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/HackHero433/Leetcode-cpp/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/HackHero433/Leetcode-cpp/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/HackHero433/Leetcode-cpp/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/HackHero433/Leetcode-cpp/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/HackHero433/Leetcode-cpp/tree/master/0617-merge-two-binary-trees) |
 ## Binary Search Tree
@@ -332,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/HackHero433/Leetcode-cpp/tree/master/0054-spiral-matrix) |
+| [0200-number-of-islands](https://github.com/HackHero433/Leetcode-cpp/tree/master/0200-number-of-islands) |
 ## Quicksort
 |  |
 | ------- |
@@ -364,4 +368,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/HackHero433/Leetcode-cpp/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/HackHero433/Leetcode-cpp/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/HackHero433/Leetcode-cpp/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
