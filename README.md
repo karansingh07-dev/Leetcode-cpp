@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/HackHero433/Leetcode-cpp/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/HackHero433/Leetcode-cpp/tree/master/0735-asteroid-collision) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/HackHero433/Leetcode-cpp/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0994-rotting-oranges](https://github.com/HackHero433/Leetcode-cpp/tree/master/0994-rotting-oranges) |
 | [1331-rank-transform-of-an-array](https://github.com/HackHero433/Leetcode-cpp/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HackHero433/Leetcode-cpp/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HackHero433/Leetcode-cpp/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/HackHero433/Leetcode-cpp/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/HackHero433/Leetcode-cpp/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/HackHero433/Leetcode-cpp/tree/master/0617-merge-two-binary-trees) |
+| [0994-rotting-oranges](https://github.com/HackHero433/Leetcode-cpp/tree/master/0994-rotting-oranges) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/HackHero433/Leetcode-cpp/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/HackHero433/Leetcode-cpp/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/HackHero433/Leetcode-cpp/tree/master/0994-rotting-oranges) |
 ## Quicksort
 |  |
 | ------- |
