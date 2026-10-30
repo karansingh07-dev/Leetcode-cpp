@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/HackHero433/Leetcode-cpp/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/HackHero433/Leetcode-cpp/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/HackHero433/Leetcode-cpp/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2409-count-days-spent-together](https://github.com/HackHero433/Leetcode-cpp/tree/master/2409-count-days-spent-together) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/HackHero433/Leetcode-cpp/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/HackHero433/Leetcode-cpp/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Greedy
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/HackHero433/Leetcode-cpp/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HackHero433/Leetcode-cpp/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HackHero433/Leetcode-cpp/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2409-count-days-spent-together](https://github.com/HackHero433/Leetcode-cpp/tree/master/2409-count-days-spent-together) |
 | [3536-maximum-product-of-two-digits](https://github.com/HackHero433/Leetcode-cpp/tree/master/3536-maximum-product-of-two-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/HackHero433/Leetcode-cpp/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Dynamic Programming
