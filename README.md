@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/HackHero433/Leetcode-cpp/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/HackHero433/Leetcode-cpp/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/HackHero433/Leetcode-cpp/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/HackHero433/Leetcode-cpp/tree/master/0502-ipo) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/HackHero433/Leetcode-cpp/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/HackHero433/Leetcode-cpp/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/HackHero433/Leetcode-cpp/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/HackHero433/Leetcode-cpp/tree/master/0027-remove-element) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/HackHero433/Leetcode-cpp/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/HackHero433/Leetcode-cpp/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/HackHero433/Leetcode-cpp/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/HackHero433/Leetcode-cpp/tree/master/0027-remove-element) |
