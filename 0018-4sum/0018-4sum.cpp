@@ -1,53 +1,54 @@
 
 class Solution {
 public:
+
     vector<vector<int>> fourSum(vector<int>& nums, int target) {
+
         int n = nums.size();
-        vector<vector<int>> ans;
+        vector<vector<int>> res;
 
         sort(nums.begin(), nums.end());
 
-        for (int i = 0; i < n ; i++) {
-            if (i > 0 && nums[i] == nums[i - 1])
+        for(int i = 0; i < n; i++) {
+
+            if(i > 0 && nums[i] == nums[i-1])
                 continue;
 
-            for (int j = i + 1; j < n ; j++) {
-                if (j > i + 1 && nums[j] == nums[j - 1])
+            for(int j = i+1; j < n; j++) {
+
+                if(j > i+1 && nums[j] == nums[j-1])
                     continue;
 
-                int p = j + 1;
-                int q = n - 1;
+                int p = j+1;
+                int q = n-1;
 
-                while (p < q) {
-                    long long sum = 1LL * nums[i] + nums[j]
-                                  + nums[p] + nums[q];
+                while(p < q) {
 
-                    if (sum < target) {
+                    long long sum = (long long)nums[i] + nums[j] + nums[p] + nums[q];
+
+                    if(sum < target) {
                         p++;
                     }
-                    else if (sum > target) {
+                    else if(sum > target) {
                         q--;
                     }
                     else {
-                        ans.push_back({
-                            nums[i], nums[j], nums[p], nums[q]
-                        });
+
+                        res.push_back({nums[i], nums[j], nums[p], nums[q]});
 
                         p++;
                         q--;
 
-                        while (p < q && nums[p] == nums[p - 1])
+                        while(p < q && nums[p] == nums[p-1])
                             p++;
 
-                        while (p < q && nums[q] == nums[q + 1])
+                        while(p < q && nums[q] == nums[q+1])
                             q--;
                     }
                 }
             }
         }
 
-        return ans;
+        return res;
     }
 };
-
-
