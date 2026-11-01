@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/HackHero433/Leetcode-cpp/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/HackHero433/Leetcode-cpp/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/HackHero433/Leetcode-cpp/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/HackHero433/Leetcode-cpp/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/HackHero433/Leetcode-cpp/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/HackHero433/Leetcode-cpp/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/HackHero433/Leetcode-cpp/tree/master/0068-text-justification) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/HackHero433/Leetcode-cpp/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/HackHero433/Leetcode-cpp/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/HackHero433/Leetcode-cpp/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/HackHero433/Leetcode-cpp/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/HackHero433/Leetcode-cpp/tree/master/0119-pascals-triangle-ii) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/HackHero433/Leetcode-cpp/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/HackHero433/Leetcode-cpp/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/HackHero433/Leetcode-cpp/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/HackHero433/Leetcode-cpp/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/HackHero433/Leetcode-cpp/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/HackHero433/Leetcode-cpp/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/HackHero433/Leetcode-cpp/tree/master/0189-rotate-array) |
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/HackHero433/Leetcode-cpp/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/HackHero433/Leetcode-cpp/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/HackHero433/Leetcode-cpp/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/HackHero433/Leetcode-cpp/tree/master/0145-binary-tree-postorder-traversal) |
@@ -257,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/HackHero433/Leetcode-cpp/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/HackHero433/Leetcode-cpp/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/HackHero433/Leetcode-cpp/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/HackHero433/Leetcode-cpp/tree/master/0503-next-greater-element-ii) |
