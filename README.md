@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/HackHero433/Leetcode-cpp/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/HackHero433/Leetcode-cpp/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/HackHero433/Leetcode-cpp/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/HackHero433/Leetcode-cpp/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Simulation
 |  |
 | ------- |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HackHero433/Leetcode-cpp/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2409-count-days-spent-together](https://github.com/HackHero433/Leetcode-cpp/tree/master/2409-count-days-spent-together) |
 | [3536-maximum-product-of-two-digits](https://github.com/HackHero433/Leetcode-cpp/tree/master/3536-maximum-product-of-two-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/HackHero433/Leetcode-cpp/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/HackHero433/Leetcode-cpp/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Dynamic Programming
 |  |
