@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/HackHero433/Leetcode-cpp/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/HackHero433/Leetcode-cpp/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/HackHero433/Leetcode-cpp/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/HackHero433/Leetcode-cpp/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/HackHero433/Leetcode-cpp/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/HackHero433/Leetcode-cpp/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/HackHero433/Leetcode-cpp/tree/master/0283-move-zeroes) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/HackHero433/Leetcode-cpp/tree/master/0209-minimum-size-subarray-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HackHero433/Leetcode-cpp/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0268-missing-number](https://github.com/HackHero433/Leetcode-cpp/tree/master/0268-missing-number) |
 | [0700-search-in-a-binary-search-tree](https://github.com/HackHero433/Leetcode-cpp/tree/master/0700-search-in-a-binary-search-tree) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/HackHero433/Leetcode-cpp/tree/master/0209-minimum-size-subarray-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/HackHero433/Leetcode-cpp/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -378,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/HackHero433/Leetcode-cpp/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/HackHero433/Leetcode-cpp/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/HackHero433/Leetcode-cpp/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/HackHero433/Leetcode-cpp/tree/master/0974-subarray-sums-divisible-by-k) |
