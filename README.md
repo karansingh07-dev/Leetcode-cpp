@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/HackHero433/Leetcode-cpp/tree/master/0628-maximum-product-of-three-numbers) |
 | [0767-reorganize-string](https://github.com/HackHero433/Leetcode-cpp/tree/master/0767-reorganize-string) |
 | [1331-rank-transform-of-an-array](https://github.com/HackHero433/Leetcode-cpp/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/HackHero433/Leetcode-cpp/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HackHero433/Leetcode-cpp/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/HackHero433/Leetcode-cpp/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/HackHero433/Leetcode-cpp/tree/master/3536-maximum-product-of-two-digits) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/HackHero433/Leetcode-cpp/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0994-rotting-oranges](https://github.com/HackHero433/Leetcode-cpp/tree/master/0994-rotting-oranges) |
 | [1331-rank-transform-of-an-array](https://github.com/HackHero433/Leetcode-cpp/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/HackHero433/Leetcode-cpp/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HackHero433/Leetcode-cpp/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HackHero433/Leetcode-cpp/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/HackHero433/Leetcode-cpp/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/HackHero433/Leetcode-cpp/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/HackHero433/Leetcode-cpp/tree/master/0455-assign-cookies) |
 | [0844-backspace-string-compare](https://github.com/HackHero433/Leetcode-cpp/tree/master/0844-backspace-string-compare) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/HackHero433/Leetcode-cpp/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/HackHero433/Leetcode-cpp/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Backtracking
 |  |
@@ -349,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HackHero433/Leetcode-cpp/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0268-missing-number](https://github.com/HackHero433/Leetcode-cpp/tree/master/0268-missing-number) |
 | [0700-search-in-a-binary-search-tree](https://github.com/HackHero433/Leetcode-cpp/tree/master/0700-search-in-a-binary-search-tree) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/HackHero433/Leetcode-cpp/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/HackHero433/Leetcode-cpp/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sliding Window
 |  |
