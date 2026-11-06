@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/HackHero433/Leetcode-cpp/tree/master/0767-reorganize-string) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/HackHero433/Leetcode-cpp/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1331-rank-transform-of-an-array](https://github.com/HackHero433/Leetcode-cpp/tree/master/1331-rank-transform-of-an-array) |
+| [2875-minimum-size-subarray-in-infinite-array](https://github.com/HackHero433/Leetcode-cpp/tree/master/2875-minimum-size-subarray-in-infinite-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/HackHero433/Leetcode-cpp/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/HackHero433/Leetcode-cpp/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/HackHero433/Leetcode-cpp/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/HackHero433/Leetcode-cpp/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/HackHero433/Leetcode-cpp/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/HackHero433/Leetcode-cpp/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2875-minimum-size-subarray-in-infinite-array](https://github.com/HackHero433/Leetcode-cpp/tree/master/2875-minimum-size-subarray-in-infinite-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/HackHero433/Leetcode-cpp/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/HackHero433/Leetcode-cpp/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/HackHero433/Leetcode-cpp/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/HackHero433/Leetcode-cpp/tree/master/0209-minimum-size-subarray-sum) |
+| [2875-minimum-size-subarray-in-infinite-array](https://github.com/HackHero433/Leetcode-cpp/tree/master/2875-minimum-size-subarray-in-infinite-array) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/HackHero433/Leetcode-cpp/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -389,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/HackHero433/Leetcode-cpp/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/HackHero433/Leetcode-cpp/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/HackHero433/Leetcode-cpp/tree/master/0974-subarray-sums-divisible-by-k) |
+| [2875-minimum-size-subarray-in-infinite-array](https://github.com/HackHero433/Leetcode-cpp/tree/master/2875-minimum-size-subarray-in-infinite-array) |
 ## Enumeration
 |  |
 | ------- |
