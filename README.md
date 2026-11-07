@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/HackHero433/Leetcode-cpp/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HackHero433/Leetcode-cpp/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/HackHero433/Leetcode-cpp/tree/master/0682-baseball-game) |
+| [0713-subarray-product-less-than-k](https://github.com/HackHero433/Leetcode-cpp/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/HackHero433/Leetcode-cpp/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/HackHero433/Leetcode-cpp/tree/master/0735-asteroid-collision) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/HackHero433/Leetcode-cpp/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HackHero433/Leetcode-cpp/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0268-missing-number](https://github.com/HackHero433/Leetcode-cpp/tree/master/0268-missing-number) |
 | [0700-search-in-a-binary-search-tree](https://github.com/HackHero433/Leetcode-cpp/tree/master/0700-search-in-a-binary-search-tree) |
+| [0713-subarray-product-less-than-k](https://github.com/HackHero433/Leetcode-cpp/tree/master/0713-subarray-product-less-than-k) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/HackHero433/Leetcode-cpp/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/HackHero433/Leetcode-cpp/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sliding Window
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/HackHero433/Leetcode-cpp/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/HackHero433/Leetcode-cpp/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0713-subarray-product-less-than-k](https://github.com/HackHero433/Leetcode-cpp/tree/master/0713-subarray-product-less-than-k) |
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/HackHero433/Leetcode-cpp/tree/master/2875-minimum-size-subarray-in-infinite-array) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/HackHero433/Leetcode-cpp/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Boyer–Moore Majority Vote Algorithm
@@ -396,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/HackHero433/Leetcode-cpp/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/HackHero433/Leetcode-cpp/tree/master/0560-subarray-sum-equals-k) |
+| [0713-subarray-product-less-than-k](https://github.com/HackHero433/Leetcode-cpp/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/HackHero433/Leetcode-cpp/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/HackHero433/Leetcode-cpp/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/HackHero433/Leetcode-cpp/tree/master/2875-minimum-size-subarray-in-infinite-array) |
