@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/HackHero433/Leetcode-cpp/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/HackHero433/Leetcode-cpp/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HackHero433/Leetcode-cpp/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1929-concatenation-of-array](https://github.com/HackHero433/Leetcode-cpp/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HackHero433/Leetcode-cpp/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/HackHero433/Leetcode-cpp/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/HackHero433/Leetcode-cpp/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/HackHero433/Leetcode-cpp/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/HackHero433/Leetcode-cpp/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/HackHero433/Leetcode-cpp/tree/master/0844-backspace-string-compare) |
+| [1929-concatenation-of-array](https://github.com/HackHero433/Leetcode-cpp/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/HackHero433/Leetcode-cpp/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Linked List
 |  |
