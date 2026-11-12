@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/HackHero433/Leetcode-cpp/tree/master/2875-minimum-size-subarray-in-infinite-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/HackHero433/Leetcode-cpp/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/HackHero433/Leetcode-cpp/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/HackHero433/Leetcode-cpp/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/HackHero433/Leetcode-cpp/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/HackHero433/Leetcode-cpp/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/HackHero433/Leetcode-cpp/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
