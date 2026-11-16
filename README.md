@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/HackHero433/Leetcode-cpp/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/HackHero433/Leetcode-cpp/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/HackHero433/Leetcode-cpp/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/HackHero433/Leetcode-cpp/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/HackHero433/Leetcode-cpp/tree/master/0502-ipo) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/HackHero433/Leetcode-cpp/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/HackHero433/Leetcode-cpp/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/HackHero433/Leetcode-cpp/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/HackHero433/Leetcode-cpp/tree/master/0055-jump-game) |
 | [0068-text-justification](https://github.com/HackHero433/Leetcode-cpp/tree/master/0068-text-justification) |
 | [0075-sort-colors](https://github.com/HackHero433/Leetcode-cpp/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/HackHero433/Leetcode-cpp/tree/master/0118-pascals-triangle) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/HackHero433/Leetcode-cpp/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/HackHero433/Leetcode-cpp/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/HackHero433/Leetcode-cpp/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/HackHero433/Leetcode-cpp/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/HackHero433/Leetcode-cpp/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/HackHero433/Leetcode-cpp/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HackHero433/Leetcode-cpp/tree/master/0121-best-time-to-buy-and-sell-stock) |
