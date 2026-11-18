@@ -1,5 +1,18 @@
 class Solution {
 public:
+     
+     int solve(int n, vector<int> & dp){
+        if(n<=1)
+         return n;
+
+         if(dp[n]!=-1){
+            return dp[n];
+         }
+
+         return dp[n]=solve(n-1,dp) + solve(n-2,dp);
+         
+     }
+        
     int fib(int n) {
         if(n==0){
             return 0;
@@ -7,9 +20,7 @@ public:
             return 1;
         }
 
-        int ans1 = fib(n-1);
-        int ans2 = fib(n-2);
-
-        return ans1+ans2;
+       vector<int> dp(n+1,-1);
+       return solve(n,dp);
     }
 };
