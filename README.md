@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/HackHero433/Leetcode-cpp/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/HackHero433/Leetcode-cpp/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/HackHero433/Leetcode-cpp/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/HackHero433/Leetcode-cpp/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/HackHero433/Leetcode-cpp/tree/master/0263-ugly-number) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/HackHero433/Leetcode-cpp/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/HackHero433/Leetcode-cpp/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/HackHero433/Leetcode-cpp/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/HackHero433/Leetcode-cpp/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/HackHero433/Leetcode-cpp/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/HackHero433/Leetcode-cpp/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HackHero433/Leetcode-cpp/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/HackHero433/Leetcode-cpp/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/HackHero433/Leetcode-cpp/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
