@@ -1,41 +1,36 @@
 class Solution {
 public:
-
-    int solve(vector<int>& nums, int i, int n, vector<int>& dp) {
-
-        if(i>n)
-            return 0;
-
-        if(dp[i] != -1)
-            return dp[i];
-
-        int steal = nums[i] + solve(nums, i+2, n, dp);
-
-        int skip = solve(nums, i+1, n, dp);
-
-        return dp[i] = max(steal, skip);
-    }
-
     int rob(vector<int>& nums) {
+        int result1 = 0;
+        int result2 = 0;
         int n = nums.size();
 
-        if(n==1)
-          return nums[0];
+        if (n == 1)
+            return nums[0];
+        vector<int> dp(n + 1, -1);
+        dp[0] = 0;
 
-        if(n==2)
-          return max(nums[0],nums[1]);
+        // case1
 
-      
-          vector<int> dp1(n+1, -1);
-          vector<int> dp2(n+1,-1);
+        for (int i = 1; i <= n - 1; i++) {
+            int skip = dp[i - 1];
+            int steal = nums[i - 1] + (i - 2 >= 0 ? dp[i - 2] : 0);
 
-        int steal_0th_index_house= solve(nums,0,n-2,dp1);
-       
-          int steal_1st_index_house= solve(nums,1,n-1,dp2);
+            dp[i] = max(steal, skip);
+        }
+        result1 = dp[n - 1];
+        dp.clear();
 
-          return max(steal_0th_index_house, steal_1st_index_house);
+        dp[0] = 0;
+        dp[1] = 0;
+        for (int i = 2; i <= n; i++) {
+            int skip = dp[i - 1];
+            int steal = nums[i - 1] + (i - 2 >= 0 ? dp[i - 2] : 0);
 
+            dp[i] = max(steal, skip);
+        }
+        result2 = dp[n];
 
-
+        return max(result1, result2);
     }
 };
