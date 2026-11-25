@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/HackHero433/Leetcode-cpp/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/HackHero433/Leetcode-cpp/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HackHero433/Leetcode-cpp/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/HackHero433/Leetcode-cpp/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1929-concatenation-of-array](https://github.com/HackHero433/Leetcode-cpp/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HackHero433/Leetcode-cpp/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/HackHero433/Leetcode-cpp/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/HackHero433/Leetcode-cpp/tree/master/0213-house-robber-ii) |
 | [0338-counting-bits](https://github.com/HackHero433/Leetcode-cpp/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/HackHero433/Leetcode-cpp/tree/master/0509-fibonacci-number) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/HackHero433/Leetcode-cpp/tree/master/1911-maximum-alternating-subsequence-sum) |
 ## Recursion
 |  |
 | ------- |
