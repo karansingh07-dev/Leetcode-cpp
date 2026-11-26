@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/HackHero433/Leetcode-cpp/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/HackHero433/Leetcode-cpp/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/HackHero433/Leetcode-cpp/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/HackHero433/Leetcode-cpp/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/HackHero433/Leetcode-cpp/tree/master/0347-top-k-frequent-elements) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/HackHero433/Leetcode-cpp/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/HackHero433/Leetcode-cpp/tree/master/0455-assign-cookies) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/HackHero433/Leetcode-cpp/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/HackHero433/Leetcode-cpp/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/HackHero433/Leetcode-cpp/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/HackHero433/Leetcode-cpp/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/HackHero433/Leetcode-cpp/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/HackHero433/Leetcode-cpp/tree/master/0509-fibonacci-number) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/HackHero433/Leetcode-cpp/tree/master/1911-maximum-alternating-subsequence-sum) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/HackHero433/Leetcode-cpp/tree/master/0209-minimum-size-subarray-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HackHero433/Leetcode-cpp/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0268-missing-number](https://github.com/HackHero433/Leetcode-cpp/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/HackHero433/Leetcode-cpp/tree/master/0300-longest-increasing-subsequence) |
 | [0700-search-in-a-binary-search-tree](https://github.com/HackHero433/Leetcode-cpp/tree/master/0700-search-in-a-binary-search-tree) |
 | [0713-subarray-product-less-than-k](https://github.com/HackHero433/Leetcode-cpp/tree/master/0713-subarray-product-less-than-k) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/HackHero433/Leetcode-cpp/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -469,4 +472,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/HackHero433/Leetcode-cpp/tree/master/0785-is-graph-bipartite) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/HackHero433/Leetcode-cpp/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
